@@ -1,6 +1,7 @@
 /* customizable snowflake styling */
 .loader button {
     width: 50%;
+    min-width: 50%;
     height: 100px;
     position: fixed;
     left: 50%;
@@ -9,7 +10,7 @@
     transform: translateX(-50%);
     background: center no-repeat #fff;
     z-index: 9999999999999999999999;
-    font-size: 50px;
+    font-size: 40px;
     outline: none;
     box-sizing: border-box;
     border: none;
